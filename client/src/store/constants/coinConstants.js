@@ -1,0 +1,3 @@
+export const SET_CURRENCY='SET_CURRENCY';
+export const TRENDING_COINS='TRENDING_COINS';
+export const COIN_LIST='COIN_LIST';
